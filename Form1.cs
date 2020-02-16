@@ -13,7 +13,7 @@ namespace Translate
 {
     public partial class form1 : Form
     {
-        DialogResult resultImport ;
+        DialogResult resultImport,resultExport ;
         private string ftype;
         public form1()
         {
@@ -64,12 +64,24 @@ namespace Translate
                     label2.Text = "Export as JSON(.json)";
                     Export.FileName = fileType[fileType.Length - 2] + ".json";
                 }
-                if(resultImport != DialogResult.OK)
+                if (resultImport != DialogResult.OK)
+                {
                     textBox1.Text = "";
+                    label1.Text = "";
+                    label2.Text = "";
+                    label3.Text = "";
+                }
+
             }
             catch
             {
-                textBox1.Text = "";
+                if (resultImport != DialogResult.OK)
+                {
+                    textBox1.Text = "";
+                    label1.Text = "";
+                    label2.Text = "";
+                    label3.Text = "";
+                }
             }
         }
        
@@ -77,7 +89,9 @@ namespace Translate
         {
             if (this.resultImport == DialogResult.OK)
             {
-                Export.ShowDialog();
+                resultExport = Export.ShowDialog();
+                if(resultExport == DialogResult.OK)
+                    saveFile();
             }
             else
             {
@@ -85,10 +99,7 @@ namespace Translate
                 MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
-            if (Export.FileName != "")
-            {
-                saveFile();
-            }
+            
         }
 
         private void saveFile()
