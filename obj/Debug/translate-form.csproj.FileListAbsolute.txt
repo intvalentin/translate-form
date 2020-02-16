@@ -1,0 +1,14 @@
+C:\Users\v\Desktop\translate-form\translate-form\bin\Debug\translate-form.exe.config
+C:\Users\v\Desktop\translate-form\translate-form\bin\Debug\translate-form.exe
+C:\Users\v\Desktop\translate-form\translate-form\bin\Debug\translate-form.pdb
+C:\Users\v\Desktop\translate-form\translate-form\obj\Debug\translate-form.csprojAssemblyReference.cache
+C:\Users\v\Desktop\translate-form\translate-form\obj\Debug\translate_form.Properties.Resources.resources
+C:\Users\v\Desktop\translate-form\translate-form\obj\Debug\translate-form.csproj.GenerateResource.cache
+C:\Users\v\Desktop\translate-form\translate-form\obj\Debug\translate-form.exe
+C:\Users\v\Desktop\translate-form\translate-form\obj\Debug\translate-form.pdb
+C:\Users\v\Desktop\translate-form\translate-form\bin\Debug\EPPlus.dll
+C:\Users\v\Desktop\translate-form\translate-form\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v\Desktop\translate-form\translate-form\bin\Debug\EPPlus.xml
+C:\Users\v\Desktop\translate-form\translate-form\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v\Desktop\translate-form\translate-form\obj\Debug\Translate.form1.resources
+C:\Users\v\Desktop\translate-form\translate-form\obj\Debug\translate-form.csproj.CopyComplete
