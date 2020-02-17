@@ -11,3 +11,17 @@ C:\Users\v\Desktop\translate-form\translate-form\bin\Debug\EPPlus.xml
 C:\Users\v\Desktop\translate-form\translate-form\bin\Debug\Newtonsoft.Json.xml
 C:\Users\v\Desktop\translate-form\translate-form\obj\Debug\Translate.form1.resources
 C:\Users\v\Desktop\translate-form\translate-form\obj\Debug\translate-form.csproj.CopyComplete
+C:\Users\valentino\Desktop\github repo\translate-form\bin\Debug\translate-form.exe.config
+C:\Users\valentino\Desktop\github repo\translate-form\bin\Debug\translate-form.exe
+C:\Users\valentino\Desktop\github repo\translate-form\bin\Debug\translate-form.pdb
+C:\Users\valentino\Desktop\github repo\translate-form\bin\Debug\EPPlus.dll
+C:\Users\valentino\Desktop\github repo\translate-form\bin\Debug\Newtonsoft.Json.dll
+C:\Users\valentino\Desktop\github repo\translate-form\bin\Debug\EPPlus.xml
+C:\Users\valentino\Desktop\github repo\translate-form\bin\Debug\Newtonsoft.Json.xml
+C:\Users\valentino\Desktop\github repo\translate-form\obj\Debug\Translate.form1.resources
+C:\Users\valentino\Desktop\github repo\translate-form\obj\Debug\translate_form.Properties.Resources.resources
+C:\Users\valentino\Desktop\github repo\translate-form\obj\Debug\translate-form.csproj.GenerateResource.cache
+C:\Users\valentino\Desktop\github repo\translate-form\obj\Debug\translate-form.csproj.CopyComplete
+C:\Users\valentino\Desktop\github repo\translate-form\obj\Debug\translate-form.exe
+C:\Users\valentino\Desktop\github repo\translate-form\obj\Debug\translate-form.pdb
+C:\Users\valentino\Desktop\github repo\translate-form\obj\Debug\translate-form.csprojAssemblyReference.cache

@@ -47,6 +47,7 @@ namespace Translate
         private void openDialog()
         {
             this.resultImport = Import.ShowDialog();
+           
             try
             {
                 textBox1.Text = Import.FileName;
@@ -55,14 +56,20 @@ namespace Translate
 
                 label1.Text = "Imported " + ftype + " file";
                 if (this.ftype == "JSON")
-                {
+                {  
+                    string name = fileType[fileType.Length - 2];
                     label2.Text = "Export as EXCEL(.xlsx)";
-                    Export.FileName = fileType[fileType.Length - 2] + ".xlsx";
+                    Export.FileName = name;
+                    Export.DefaultExt = ".xlsx";
                 }
                 else
                 {
+                    string name = fileType[fileType.Length - 2];
                     label2.Text = "Export as JSON(.json)";
-                    Export.FileName = fileType[fileType.Length - 2] + ".json";
+                    Export.FileName = name;
+                    Export.DefaultExt = ".json";
+
+
                 }
                 if (resultImport != DialogResult.OK)
                 {
@@ -88,7 +95,7 @@ namespace Translate
         private void openExport()
         {
             if (this.resultImport == DialogResult.OK)
-            {
+            {   
                 resultExport = Export.ShowDialog();
                 if(resultExport == DialogResult.OK)
                     saveFile();
