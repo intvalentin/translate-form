@@ -132,10 +132,10 @@ namespace Translate
 
 
             }
-            catch
+            catch(Exception e)
             {
                 textBox1.Text = "";
-                MessageBox.Show("Please import a file first!", "Error",
+                MessageBox.Show("Please import a file first!   "+e, "Error",
                 MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             

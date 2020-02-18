@@ -24,4 +24,3 @@ C:\Users\valentino\Desktop\github repo\translate-form\obj\Debug\translate-form.c
 C:\Users\valentino\Desktop\github repo\translate-form\obj\Debug\translate-form.csproj.CopyComplete
 C:\Users\valentino\Desktop\github repo\translate-form\obj\Debug\translate-form.exe
 C:\Users\valentino\Desktop\github repo\translate-form\obj\Debug\translate-form.pdb
-C:\Users\valentino\Desktop\github repo\translate-form\obj\Debug\translate-form.csprojAssemblyReference.cache
