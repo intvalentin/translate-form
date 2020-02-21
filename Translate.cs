@@ -43,7 +43,7 @@ namespace Translate
                 hadMoreC = true;
                 jsonConversion += Environment.NewLine + "{" + Environment.NewLine;
             }
-            if (a.value != null && nr > 1 && a.getNumber < a.parent.childsNumber)
+            if (a.value != null  && a.getNumber < a.parent.childsNumber)
             {
                 jsonConversion += "\"" + a.value + "\"," + Environment.NewLine;
 
@@ -177,6 +177,8 @@ namespace Translate
                 BinaryFormatter bf = new BinaryFormatter();
                 using (var convertByte = new MemoryStream())
                 {
+                    string testFail = PrintTree(startNode, true, startNode.childsNumber);
+                    Console.WriteLine(testFail);
                     //Convert tree to json in string
                     //Convert the string to json object
                     JObject o = JObject.Parse(PrintTree(startNode, true, startNode.childsNumber));
