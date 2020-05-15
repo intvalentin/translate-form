@@ -43,7 +43,7 @@ namespace Translate
                 hadMoreC = true;
                 jsonConversion += Environment.NewLine + "{" + Environment.NewLine;
             }
-            if (a.value != null  && a.getNumber < a.parent.childsNumber)
+            if (a.value != null && nr >= 1 && a.getNumber < a.parent.childsNumber)
             {
                 jsonConversion += "\"" + a.value + "\"," + Environment.NewLine;
 
