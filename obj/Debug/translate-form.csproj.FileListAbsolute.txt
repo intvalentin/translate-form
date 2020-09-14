@@ -38,3 +38,4 @@ C:\Users\valentino\Documents\github repo\translate-form\obj\Debug\translate-form
 C:\Users\valentino\Documents\github repo\translate-form\obj\Debug\translate-form.exe
 C:\Users\valentino\Documents\github repo\translate-form\obj\Debug\translate-form.pdb
 C:\Users\valentino\Documents\github repo\translate-form\obj\Debug\translate-form.csprojAssemblyReference.cache
+C:\Users\valentino\Documents\github repo\translate-form\obj\Debug\translate-form.csproj.CoreCompileInputs.cache
