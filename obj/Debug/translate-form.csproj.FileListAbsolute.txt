@@ -39,3 +39,17 @@ C:\Users\valentino\Documents\github repo\translate-form\obj\Debug\translate-form
 C:\Users\valentino\Documents\github repo\translate-form\obj\Debug\translate-form.pdb
 C:\Users\valentino\Documents\github repo\translate-form\obj\Debug\translate-form.csprojAssemblyReference.cache
 C:\Users\valentino\Documents\github repo\translate-form\obj\Debug\translate-form.csproj.CoreCompileInputs.cache
+C:\surse\Test\OlteanuIonutValentin\translate-form-master\bin\Debug\translate-form.exe.config
+C:\surse\Test\OlteanuIonutValentin\translate-form-master\bin\Debug\translate-form.exe
+C:\surse\Test\OlteanuIonutValentin\translate-form-master\bin\Debug\translate-form.pdb
+C:\surse\Test\OlteanuIonutValentin\translate-form-master\bin\Debug\EPPlus.dll
+C:\surse\Test\OlteanuIonutValentin\translate-form-master\bin\Debug\Newtonsoft.Json.dll
+C:\surse\Test\OlteanuIonutValentin\translate-form-master\bin\Debug\EPPlus.xml
+C:\surse\Test\OlteanuIonutValentin\translate-form-master\bin\Debug\Newtonsoft.Json.xml
+C:\surse\Test\OlteanuIonutValentin\translate-form-master\obj\Debug\Translate.form1.resources
+C:\surse\Test\OlteanuIonutValentin\translate-form-master\obj\Debug\translate_form.Properties.Resources.resources
+C:\surse\Test\OlteanuIonutValentin\translate-form-master\obj\Debug\translate-form.csproj.GenerateResource.cache
+C:\surse\Test\OlteanuIonutValentin\translate-form-master\obj\Debug\translate-form.csproj.CoreCompileInputs.cache
+C:\surse\Test\OlteanuIonutValentin\translate-form-master\obj\Debug\translate-form.csproj.CopyComplete
+C:\surse\Test\OlteanuIonutValentin\translate-form-master\obj\Debug\translate-form.exe
+C:\surse\Test\OlteanuIonutValentin\translate-form-master\obj\Debug\translate-form.pdb
